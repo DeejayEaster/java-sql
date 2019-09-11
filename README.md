@@ -5,7 +5,7 @@ A student that completes this project shows that they can:
 * Query data from multiple tables
 * Create a new datadaase using PostgreSQL
 
-# Introduction
+# Introductions
 
 Working with SQL
 
